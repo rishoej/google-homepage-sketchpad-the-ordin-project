@@ -1,0 +1,89 @@
+body {
+	font-family:arial,sans-serif;
+	
+}
+ul {
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	padding:0;
+}
+.inline li {
+	display: inline-block;
+    vertical-align: middle;
+}
+li a {
+	width:100px;
+	color:#000;
+	text-decoration:none;
+	font-size:16px;
+	font-weight:300;
+	padding-left:20px;
+}
+li a:hover {
+	text-decoration: underline;
+}
+.topMenu {
+	text-align:right;
+	padding:30px;
+}
+.signIn{
+	color:#ffffff;
+	background-color:#4285f4;
+	padding:8px;
+	border:2px solid #4285f4;
+	border-radius:3px;
+}
+
+.logo {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:18%;
+	margin-top:145px;
+}
+.googleSearch {
+	display:block;
+	margin:0 auto;
+	width:700px;
+	height:40px;
+	margin-top:50px;
+}
+.buttons {
+	text-align:center;
+	margin-top:40px;
+}
+.buttonsDesign {
+	width:160px;
+	height:40px;
+	border:none;
+	color:#757575;
+	background-color:#f2f2f2;
+	font-size:18px;
+	font-weight: 500;
+	border:2px solid #f2f2f2;
+	border-radius:3px;
+}
+input[type="text" i] {
+	font-size:19px;
+	padding-left:10px;
+}
+.bottomMenu {
+    border-top: 1px solid #e4e4e4;
+	position:fixed;
+	bottom:0;
+	width:100%;
+	background-color:#f2f2f2;
+	padding:18px;		
+	color:#757575;
+}
+.bottomMenuLeft {
+	float:left;
+	padding-left:5px;
+	color:#757575;
+}
+.bottomMenuRight {
+	float:right;
+	padding-left:5px;
+	color:#757575;
+}
