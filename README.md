@@ -1,4 +1,4 @@
-#Google homepage - Project: Javascript/jQuery - The Ordin Project
+#Google homepage - The Ordin Project
 Google search html/css page with working form action to google.com with the resuelt you searching for.
 
 #Demo
